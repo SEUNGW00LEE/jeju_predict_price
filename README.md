@@ -1,6 +1,7 @@
 # jeju_predict_price
 [제주 특산물 가격 예측 AI 경진대회(Dacon)](https://dacon.io/competitions/official/236176/overview/description)
 
+[데이터 EDA 및 인사이트](https://www.notion.so/0d92b22b5b8340b7aa032078515bba9d)
 
 ### 배경
 
